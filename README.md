@@ -5,7 +5,7 @@
 
 <div align="center">
  
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Cruz-494c52?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorsmedeiros/)](https://www.linkedin.com/in/vitorsmedeiros/) [![Gmail Badge](https://img.shields.io/badge/-vitor.smedeiros@gmail.com-494c52?style=flat&logo=Gmail&logoColor=white&link=mailto:vitor.smedeiros@gmail.com)](mailto:vitor.smedeiros@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/vitormedeiros?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorsmedeiros/)](https://www.linkedin.com/in/vitorsmedeiros/) [![Gmail Badge](https://img.shields.io/badge/-vitor.smedeiros@gmail.com-494c52?style=flat&logo=Gmail&logoColor=white&link=mailto:vitor.smedeiros@gmail.com)](mailto:vitor.smedeiros@gmail.com)  
  
 **Languages and tools I mainly use:**
 
