@@ -1,7 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hey Fellas, I'm Vitor Medeiros!✌</h1>
 
-<!--
-**vitorsmedeiros/vitorsmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm a Product Manager @VTEX</h3>
+
+
+<div align="center">
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Cruz-494c52?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorsmedeiros/)](https://www.linkedin.com/in/vitorsmedeiros/) [![Gmail Badge](https://img.shields.io/badge/-vitor.smedeiros@gmail.com-494c52?style=flat&logo=Gmail&logoColor=white&link=mailto:vitor.smedeiros@gmail.com)](mailto:vitor.smedeiros@gmail.com)  
+ 
+**Languages and tools I mainly use:**
+
+<img align="center" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png">
+<img align="center" height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/sql.png">
+<img align="center" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/vba.png">
+
+</div>
 
 Here are some ideas to get you started:
 
