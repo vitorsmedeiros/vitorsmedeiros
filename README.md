@@ -23,6 +23,7 @@ Applied Data Science techniques (demand forecasting, algorithm tuning) to produc
 Technical Product Specialist — Marketplace & AI @ VTEX
 Senior Product Manager, regional marketplace connectors team @ VTEX
 Postgraduate studies in AI Process Automation Engineering (DataScience Academy)
+
 🛠️ Skills & tools
 
 AI & automation <img align="center" height="20" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"> <img align="center" height="20" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"> <img align="center" height="20" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"> <img align="center" height="20" src="https://img.shields.io/badge/Prompt_Engineering-4B32C3?style=for-the-badge">
@@ -31,6 +32,4 @@ Technical <img align="center" height="20" src="https://img.shields.io/badge/Pyth
 
 Product & delivery <img align="center" height="20" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img align="center" height="20" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img align="center" height="20" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img align="center" height="20" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img align="center" height="20" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
-📊 GitHub stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=vitorsmedeiros&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsmedeiros&layout=compact&hide_border=true" /> </div>
 <div align="center"> <sub>CSPO · CSM · Data Scientist Nanodegree (Udacity)</sub> </div>
