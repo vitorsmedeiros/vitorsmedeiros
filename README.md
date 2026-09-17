@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Vitor Medeiros 👋</h1> <h3 align="center">Product Manager building AI-powered solutions & automation @VTEX</h3> <div align="center">
 
-Linkedin Badge Gmail Badge
+<a href="https://www.linkedin.com/in/vitorsmedeiros/"><img align="center" height="28" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> <a href="mailto:vitor.smedeiros@gmail.com"><img align="center" height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
+
 🧠 About me
 
-Senior Product Manager with 15+ years of experience across VTEX, iFood and B2W, with a growing focus on AI products and automation.
+Senior Product Manager with 15+ years of experience across VTEX, iFood and Americanas.com, with a growing focus on AI products and automation.
 
 At VTEX, I act as the technical bridge between support, engineering and product for Brazil's marketplace connectors — debugging APIs, analyzing logs to diagnose complex integration issues, and turning recurring operational pain points into evidence-based backlog decisions.
 
